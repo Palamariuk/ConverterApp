@@ -1,0 +1,9 @@
+C:\Users\stoln\Desktop\C#\ConverterApp\bin\Debug\ConverterApp.exe.config
+C:\Users\stoln\Desktop\C#\ConverterApp\bin\Debug\ConverterApp.exe
+C:\Users\stoln\Desktop\C#\ConverterApp\bin\Debug\ConverterApp.pdb
+C:\Users\stoln\Desktop\C#\ConverterApp\obj\Debug\ConverterApp.csprojAssemblyReference.cache
+C:\Users\stoln\Desktop\C#\ConverterApp\obj\Debug\ConverterApp.Form1.resources
+C:\Users\stoln\Desktop\C#\ConverterApp\obj\Debug\ConverterApp.Properties.Resources.resources
+C:\Users\stoln\Desktop\C#\ConverterApp\obj\Debug\ConverterApp.csproj.GenerateResource.cache
+C:\Users\stoln\Desktop\C#\ConverterApp\obj\Debug\ConverterApp.exe
+C:\Users\stoln\Desktop\C#\ConverterApp\obj\Debug\ConverterApp.pdb
